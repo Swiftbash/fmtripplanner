@@ -16,7 +16,7 @@ Future Planner: Plan the trip!
 Q&A:
 
 Q: Is this free?
-A: Yes!
+A: Yes, all you need is an existing FileMaker Pro or Server License.
 
 Q: How do I open the fmp12?
 A: You will need FileMaker, which you can download a trial version.
